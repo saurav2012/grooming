@@ -1,1 +1,3 @@
-1003;Bhaurav;2023-04-18;tester;Trainee;OS
+1003;Hritika;2023-04-18;tester;Trainee;OS
+1004;Saurav;2023-04-18;QA;Trainee;OS
+1005;Bhaurav;2023-04-18;tester;Trainee;OS
