@@ -1,4 +1,4 @@
-package com.sapient.grooming.weekWork.week2;
+package com.sapient.grooming.Week2;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

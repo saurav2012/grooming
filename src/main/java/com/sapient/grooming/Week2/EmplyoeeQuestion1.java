@@ -1,5 +1,6 @@
-package com.sapient.grooming.weekWork.week2;
+package com.sapient.grooming.Week2;
 
+import com.sapient.grooming.Exception.DataNotFoundException;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

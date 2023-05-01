@@ -1,4 +1,4 @@
-package com.sapient.grooming.weekWork.week2;
+package com.sapient.grooming.Exception;
 
 public class DataNotFoundException extends RuntimeException {
     public DataNotFoundException(String msg){

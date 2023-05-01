@@ -1,4 +1,4 @@
-package com.sapient.grooming.weekWork.week2;
+package com.sapient.grooming.Week2;
 
 public enum Status {
     ACTIVE,EXIT,SERVING_NOTICE
